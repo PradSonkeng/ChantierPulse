@@ -1,0 +1,11 @@
+{
+  "name": "ChantierPulse",
+  "short_name": "ChantierPulse",
+  "description": "Pilotage probabiliste de chantier",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3f3f0",
+  "theme_color": "#14161a",
+  "lang": "fr",
+  "icons": [{ "src": "assets/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
